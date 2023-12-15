@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_R_JkEH9GEe6pKvvym7lp8A" confirmationNeeded="false" name="C">
+    <contextParameter xmi:id="_R_JkEX9GEe6pKvvym7lp8A" comment="" name="SQLINST7" prompt="SQLINST7?" promptNeeded="false" type="id_String" value="cap-dev-common-us01-sql"/>
+    <contextParameter xmi:id="_R_JkEn9GEe6pKvvym7lp8A" comment="" name="SQLUSER7" prompt="SQLUSER7?" promptNeeded="false" type="id_String" value="UD_SRO_BD"/>
+    <contextParameter xmi:id="_R_JkE39GEe6pKvvym7lp8A" comment="" name="SQLPASS7" prompt="SQLPASS7?" promptNeeded="false" type="id_String" value="NHAsCH27ebOvUn4E9A7q"/>
+    <contextParameter xmi:id="_R_JkFH9GEe6pKvvym7lp8A" comment="" name="DataBaseSRO" prompt="DataBaseSRO?" promptNeeded="false" type="id_String" value="SROCapemisa_DEV"/>
+    <contextParameter xmi:id="_R_JkFX9GEe6pKvvym7lp8A" comment="Parametro Adicional JDBC - Azure" name="ParamAdicA" prompt="ParamAdicA?" promptNeeded="false" type="id_String" value="encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_R_JkFn9GEe6pKvvym7lp8A" confirmationNeeded="false" name="H">
+    <contextParameter xmi:id="_R_JkF39GEe6pKvvym7lp8A" comment="" name="SQLINST7" prompt="SQLINST7?" promptNeeded="false" type="id_String" value="cap-dev-common-us01-sql"/>
+    <contextParameter xmi:id="_R_JkGH9GEe6pKvvym7lp8A" comment="" name="SQLUSER7" prompt="SQLUSER7?" promptNeeded="false" type="id_String" value="UH_SRO_BD"/>
+    <contextParameter xmi:id="_R_JkGX9GEe6pKvvym7lp8A" comment="" name="SQLPASS7" prompt="SQLPASS7?" promptNeeded="false" type="id_String" value="F0J1xkqvoOGZvZJeG1hl"/>
+    <contextParameter xmi:id="_R_JkGn9GEe6pKvvym7lp8A" comment="" name="DataBaseSRO" prompt="DataBaseSRO?" promptNeeded="false" type="id_String" value="SROCapemisa_HML"/>
+    <contextParameter xmi:id="_R_JkG39GEe6pKvvym7lp8A" comment="Parametro Adicional JDBC - Azure" name="ParamAdicA" prompt="ParamAdicA?" promptNeeded="false" type="id_String" value="encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_R_JkHH9GEe6pKvvym7lp8A" confirmationNeeded="false" name="P">
+    <contextParameter xmi:id="_R_JkHX9GEe6pKvvym7lp8A" comment="" name="SQLINST7" prompt="SQLINST7?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_R_JkHn9GEe6pKvvym7lp8A" comment="" name="SQLUSER7" prompt="SQLUSER7?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_R_JkH39GEe6pKvvym7lp8A" comment="" name="SQLPASS7" prompt="SQLPASS7?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_R_JkIH9GEe6pKvvym7lp8A" comment="" name="DataBaseSRO" prompt="DataBaseSRO?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_R_JkIX9GEe6pKvvym7lp8A" comment="Parametro Adicional JDBC - Azure" name="ParamAdicA" prompt="ParamAdicA?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
